@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mariana Restrepo 👋</h1>
 
 <p align="center">
-  <img src="" width="300" alt="coding girl gif" />
+  <img src="https://github.com/marianarestrepo26/marianarestrepo26/blob/main/e9a52ef9-7efe-420a-a6b5-71f6f516723e.png" width="100%" alt="coding girl gif" />
 </p>
 
 I'm a software developer passionate about building accessible, clean and user-focused solutions. I enjoy learning new technologies, solving problems creatively, and collaborating on meaningful projects.  
